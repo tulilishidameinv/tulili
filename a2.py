@@ -1,3 +1,4 @@
 #! /usr/bin/python
 # -*- coding:utf8 -*-
-hahaah
+a=1
+b=1
